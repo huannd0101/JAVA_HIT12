@@ -83,7 +83,6 @@ public class RunMain {
 
     private static void insert() {
         if (n > 0){
-            a = Arrays.copyOf(a, n+1);
             System.out.print("Nhập vị trí cần chèn: ");
             int pos = sc.nextInt();
             System.out.print("Nhập phần tử cần chèn: ");
@@ -92,6 +91,7 @@ public class RunMain {
             if(pos < 1 || pos > n) {
                 System.out.println("Không thể chèn tại vị trí này");
             }else {
+                a = Arrays.copyOf(a, n+1);
                 for (int i=n; i>=pos; i--){
                     a[i] = a[i-1];
                 }

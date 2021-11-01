@@ -35,7 +35,7 @@ public class Array {
         Scanner sc = new Scanner(System.in);
         System.out.print("Nhập n = ");
         n = sc.nextInt();
-        a = new int[n];
+        a = new int[n];//NullPointerException
         for(int i=0; i<n; i++) {
             System.out.print("Nhập a[" + i + "] = ");
             a[i] = sc.nextInt();

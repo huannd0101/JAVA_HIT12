@@ -31,7 +31,13 @@ public class Guns {
     public void load(int x) {
         setAmmoNumber(getAmmoNumber() + x);
     }
+
     public void shoot(int x) {
-        setAmmoNumber(Math.max(getAmmoNumber() - x, 0));
+        if(getAmmoNumber() - x > 0) {
+            setAmmoNumber(getAmmoNumber() - x);
+        }else {
+            setAmmoNumber(0);
+        }
+//        setAmmoNumber(Math.max(getAmmoNumber() - x, 0));
     }
 }

@@ -1,2 +1,0 @@
-package ex;public class Person {
-}

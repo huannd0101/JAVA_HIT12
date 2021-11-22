@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DemoBTL:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DemoBTL_jar</output-path>
+    <root id="archive" name="DemoBTL.jar">
+      <element id="module-output" name="DemoBTL" />
+    </root>
+  </artifact>
+</component>

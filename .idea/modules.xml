@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BTVN_B1/BTVN_B1.iml" filepath="$PROJECT_DIR$/BTVN_B1/BTVN_B1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTVN_B2/BTVN_B2.iml" filepath="$PROJECT_DIR$/BTVN_B2/BTVN_B2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTVN_B3/BTVN_B3.iml" filepath="$PROJECT_DIR$/BTVN_B3/BTVN_B3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTVN_B4/BTVN_B4.iml" filepath="$PROJECT_DIR$/BTVN_B4/BTVN_B4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTVN_B5/BTVN_B5.iml" filepath="$PROJECT_DIR$/BTVN_B5/BTVN_B5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buổi 2/Buổi 2.iml" filepath="$PROJECT_DIR$/Buổi 2/Buổi 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buổi 3/Buổi 3.iml" filepath="$PROJECT_DIR$/Buổi 3/Buổi 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buổi 4/Buổi 4.iml" filepath="$PROJECT_DIR$/Buổi 4/Buổi 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buổi 5/Buổi 5.iml" filepath="$PROJECT_DIR$/Buổi 5/Buổi 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buổi 6/Buổi 6.iml" filepath="$PROJECT_DIR$/Buổi 6/Buổi 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buổi 7/Buổi 7.iml" filepath="$PROJECT_DIR$/Buổi 7/Buổi 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoBTL/DemoBTL.iml" filepath="$PROJECT_DIR$/DemoBTL/DemoBTL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA_HIT12.iml" filepath="$PROJECT_DIR$/.idea/JAVA_HIT12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+    </modules>
+  </component>
+</project>

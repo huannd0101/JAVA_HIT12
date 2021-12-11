@@ -1,2 +1,6 @@
-package bai2;public interface Ishape {
+package bai2;
+
+interface IShape {
+    double getArea();
+    double getPerimeter();
 }

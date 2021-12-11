@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DemoBTL">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DemoBTL/out/artifacts/DemoBTL_jar/DemoBTL.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
